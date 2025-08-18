@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " Você estava indo pegar um lanche da tarde quando passou pelo espelho da sala e se deparou com uma figura totalmente diferente que costumava ver,qual seria sua reação e o que faria para mudar.
+        enunciado: " Você estava indo pegar um lanche da tarde quando passou pelo espelho da sala e se deparou com uma figura totalmente diferente que costumava ver,qual seria sua reação e o que faria para mudar",
 
         alternativas: [
             {
