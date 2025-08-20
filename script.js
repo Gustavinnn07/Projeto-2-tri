@@ -23,11 +23,11 @@ const perguntas = [
         enunciado: "Com a resposta é obrigatório pensar que temos que mudar a vida que vivemos, como scha que seria a melhor alternativa",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Entrar em um academia sem preparo nenhum, com seus próprios treinos ",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Procurar uma nutricionista para se preparar melhor, controlar alimentação e seguir treinos específicos dadp por profissional",
                 afirmacao: "afirmação"
             }
         ]
