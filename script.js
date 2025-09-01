@@ -33,14 +33,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Como é o melhor método para emagrecer que você conhece nos dias de hoje",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Métodos apenas cirurgicos e sem certeza de acerto",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Procurar emagrecer com dietas e acompanhamento médico adequado e seguro",
                 afirmacao: "afirmação"
             }
         ]
