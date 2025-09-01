@@ -66,7 +66,7 @@ const perguntas = [
                 afirmacao: "afirmação"
             },
             {
-                texto: "Ficaria em dúvida por não querer treinar e focar na accademia",
+                texto: "Ficaria em dúvida por não querer treinar e focar na academia",
                 afirmacao: "afirmação"
             }
         ]
