@@ -46,7 +46,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você pergunta para amigos como está sua aparência e pede que sejam sinceros com a resposta. Após o comentario negativo deles,você fica surpreso e qual seria sua reação  ",
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
