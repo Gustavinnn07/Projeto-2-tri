@@ -49,11 +49,11 @@ const perguntas = [
         enunciado: "Você pergunta para amigos como está sua aparência e pede que sejam sinceros com a resposta. Após o comentario negativo deles,você fica surpreso e qual seria sua reação  ",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Ficaria triste e me afastaria, pois não é a resposta não é a esperada ",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Procuraria ouvir melhor seus conselhos e focar em mudar ",
                 afirmacao: "afirmação"
             }
         ]
